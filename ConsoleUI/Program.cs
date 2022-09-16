@@ -15,8 +15,3 @@ public class C
 
 
 }
-#region
-d
-a
-    c
-#endregion
